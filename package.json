@@ -1,0 +1,17 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ESMAT001/twitter_bot.git",
+  "author": "ESMAT001 <esmat10.niazi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^11.8.3",
+    "twitter.js": "^0.10.1"
+  }
+}
