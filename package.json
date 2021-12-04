@@ -2,7 +2,10 @@
   "name": "twitter_bot",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/ESMAT001/twitter_bot.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESMAT001/twitter_bot.git"
+  },
   "author": "ESMAT001 <esmat10.niazi@gmail.com>",
   "license": "MIT",
   "scripts": {
@@ -14,5 +17,11 @@
     "express": "^4.17.1",
     "got": "^11.8.3",
     "twitter.js": "^0.10.1"
-  }
+  },
+  "description": "bot",
+  "bugs": {
+    "url": "https://github.com/ESMAT001/twitter_bot/issues"
+  },
+  "homepage": "https://github.com/ESMAT001/twitter_bot#readme",
+  "devDependencies": {}
 }

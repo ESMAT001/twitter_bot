@@ -9,10 +9,10 @@
 
 
 module.exports = {
-    consumer_key: 'KeT7ZSY7sdgiui4ZDBxJ6hUtZ',
-    consumer_secret: 'u68wpc74A620rwUK6mFVnDNvrqfQNxI5KhacjToGxIXSbZ2UgF',
-    access_token_key: '1450468755759411208-qwgf2KGiPcnVpbmOrr6WnlYbma7qFF',
-    access_token_secret: 'y04kCaE4Rvoi6uhUc4RiB1P2u5NLYMPdKPQSEu9pprN4w',
-    bearerToken:"AAAAAAAAAAAAAAAAAAAAAKkgWgEAAAAAkSSfUoq7I3dBaUt%2FHwceOFVyC2E%3DI6uVciTEmEtrMYFbZ8Myfe0HzDRUzMiEwX9m8MoGNQB8gq5aNT",
+    consumer_key: 'I4sOUOidmJk09PORzsWkUKmnD',
+    consumer_secret: 'WplPrHNvQ1RkkvZ6jGqFHpfhYkW7NBujcgXgS2Jacwv86MM6Jh',
+    access_token_key: '1450468755759411208-iG3CBalSWA131xcnfWV5hv9blNB3Km',
+    access_token_secret: '1tNE7AcDolf5t7mJXectqdzS6lIK11ZJbQ7Sw4aIYNb1H',
+    bearerToken:"AAAAAAAAAAAAAAAAAAAAAKkgWgEAAAAAMfNk7mZONXxL9969TLicjEe9H2M%3D07xX8qKqqKt0sAJNH4rpGZNJVbqjj4A3LhTGv0PPWuly6d00WX",
     username:"Movieera2"
 }

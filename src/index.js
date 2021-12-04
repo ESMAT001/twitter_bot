@@ -2,7 +2,7 @@ const express = require('express');
 const got = require('got');
 const createPost = require('./createPost');
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3001;
 const apiKey = '3d97e93f74df6d3dd759d238a7b8564c'
 
 
