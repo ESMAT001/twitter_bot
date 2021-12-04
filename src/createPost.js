@@ -17,12 +17,5 @@ module.exports = async (text) => {
   return await client.tweets.create({
     text
   })
-  // client.on('ready', async () => {
-  //   const user = await client.tweets.create({
-  //     text: "hello world https://movieera.vercel.app/movie/576845",
-  //   })
-  //   console.log(user);  // Contributing to open-source 🌐
-  // });
-
-  
+ 
 };
