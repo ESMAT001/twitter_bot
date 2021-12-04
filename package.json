@@ -23,5 +23,8 @@
     "url": "https://github.com/ESMAT001/twitter_bot/issues"
   },
   "homepage": "https://github.com/ESMAT001/twitter_bot#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.13.1"
+  }
 }
